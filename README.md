@@ -1,9 +1,9 @@
 ## APEX Faucet — x402 APIs & MCP Tools for AI Agents
 
-**279 pay-per-call x402 APIs & 364 hosted MCP tools** (`$0.001–$0.05` via USDC on Base, Arc, or Solana, or XNT on X1) — **or** use a prepaid **$5 API Key by card (no crypto)** at **[apexfaucet.xyz/pass/](https://apexfaucet.xyz/pass/)**.
+**295 pay-per-call x402 APIs & 364 hosted MCP tools** (`$0.001–$0.05` via USDC on Base, Arc, or Solana, or XNT on X1) — **or** use a prepaid **$5–$50 Card API Key (+30%) by card (no crypto)** at **[apexfaucet.xyz/pass/](https://apexfaucet.xyz/pass/)**.
 
 - **Focused MCP Endpoints (Official MCP Registry `xyz.apexfaucet/*`):**
-  - AI, LLMs, Embeddings, OCR, Whisper, TTS, FLUX/SVG & Guardrails: `https://apexfaucet.xyz/api/mcp/ai`
+  - AI, LLMs, Embeddings, OCR, Whisper, TTS, FLUX/SVG & Guardrails: `https://apexfaucet.xyz/api/mcp/dev`, `/api/mcp/ai`
   - Headless Chrome Render, Scraping, Markdown, HTML-to-PDF & Research: `https://apexfaucet.xyz/api/mcp/web`
   - DefiLlama TVL/Yields/DEX Volumes, Perp Funding, EVM Log Decode & Audits: `https://apexfaucet.xyz/api/mcp/defi`
   - Prompt Injection, PII Redaction, CVE Lookup & Tx Safety: `https://apexfaucet.xyz/api/mcp/safety`
